@@ -1,0 +1,24 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "este es un ejemplo para gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "gulp",
+    "web",
+    "js",
+    "css"
+  ],
+  "author": "Angel",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  },
+  "dependencies": {
+    
+  }
+}
